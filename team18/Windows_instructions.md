@@ -1,6 +1,6 @@
 # Steps to make the Quantum Stuff Work
 
-1. Open NYUAD-2022 folder **from Desktop**, not the original one.
+1. Clone this repo to Desktop. Open NYUAD-2022 folder **from Desktop**
 2. Go in team18
 3. Open frontend in new window
 4. Open backend in new window
