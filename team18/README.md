@@ -69,7 +69,7 @@ To this end, we
  - Flask: Backend for the web application
  - React: Frontend for the web application
 
-# Windows Instructions - Steps to make the Quantum Stuff Work
+# Windows Instructions - Steps to make it Work
 
 1. Clone this repo to Desltop. Open NYUAD-2022 folder **from Desktop**.
 2. Go in team18
